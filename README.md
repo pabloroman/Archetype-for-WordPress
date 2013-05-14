@@ -1,4 +1,4 @@
-Archetype-for-WordPress
+Archetype for WordPress
 =======================
 
 Archetype is a responsive, dynamic and elegant WordPress theme
