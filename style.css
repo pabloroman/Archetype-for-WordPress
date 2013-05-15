@@ -1,11 +1,11 @@
 /*
 	Theme Name: Archetype
-	Theme URI: http://pabloroman.es/archetype-for-wordpress
-	Description: A barebones WordPress theme based on the Archetype HTML5 Framework
+	Theme URI: http://archetype.pabloroman.es/
+	Description: A clean WordPress theme based on the Archetype HTML5 Framework
 	Version: 1.0
 	Author: Pablo Rom&aacute;n (@pabloroman)
 	Author URI: http://pabloroman.es
-	Tags: Blank, HTML5, CSS3, Responsive
+	Tags: Framework, Clean, Webfont, White, HTML5, CSS3, Responsive
 	
 	License: MIT
 	License URI: http://opensource.org/licenses/mit-license.php
@@ -278,7 +278,7 @@ header #search { font-size: 0.875em; font-weight: 300; border: 0; height: 1.875e
 .post-header { margin-bottom: 2em; }
 .post-category { line-height: 1; margin-bottom: 0.25em; }
 .post-category a { text-transform: uppercase; font-weight: 600; font-size: 0.875em; }
-.post-title { font-size: 3.5em; font-weight: 400; letter-spacing: -1px; }
+.post-title { font-size: 3.5em; font-weight: 400; letter-spacing: -2px; }
 .post-excerpt { color: #9aa1a0; }
 .post-excerpt p:last-child { margin: 0; }
 .post-excerpt a { color: #47A3DA; }
