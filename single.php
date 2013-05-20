@@ -113,7 +113,6 @@
 					
 					<div class="row">
 						<div class="column half">
-							<h3 class="headline-underlined">Leave a comment</h3>
 							<?php comments_template(); ?>
 						</div>
 						<div class="column half">
