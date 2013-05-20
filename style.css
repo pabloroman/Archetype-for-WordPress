@@ -255,6 +255,7 @@ header #search { font-size: 0.875em; font-weight: 300; border: 0; height: 1.875e
 
 /* =Loop.php
 -------------------------------------------------------------- */
+.loop { position: relative; }
 .loop-post { border-bottom: 1px solid #eaeded; padding-bottom: 1.5em; } 
 .loop-post { margin-bottom: 1.5em; }
 .loop-post-byline { color: #9aa1a0; font-size: 0.875em; margin-bottom: 0.625em; }

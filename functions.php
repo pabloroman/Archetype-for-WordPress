@@ -66,7 +66,7 @@ function archetype_scripts_styles() {
 
 add_action( 'pre_get_posts', 'archetype_posts_per_page' );
 function archetype_posts_per_page( $wp_query ) {
-	set_query_var( 'posts_per_page', 14 );
+	set_query_var( 'posts_per_page', 15 );
 }
 
 add_filter( 'excerpt_length', 'archetype_excerpt_length', 999 );
